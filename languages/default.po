@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wcap\n"
+"POT-Creation-Date: 2014-07-14 14:27-0800\n"
+"PO-Revision-Date: 2014-07-14 14:27-0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.6\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-SearchPath-0: includes\n"
+"X-Poedit-SearchPath-1: templates\n"
+"X-Poedit-SearchPath-2: assets\n"
+
+#: includes/admin/wcap_add_coupon_selecter_options.php:12
+msgid "Exclude in Coupon Selector"
+msgstr ""
+
+#: includes/admin/wcap_add_coupon_selecter_options.php:12
+msgid ""
+"Check this box if you do not want to show this coupon in coupon selector "
+"coupons list."
+msgstr ""
+
+#: includes/front-end/cart/wcap_change_frontend_coupon_form.php:17
+#: includes/wcap_register_frontend_script_style.php:15
+#: templates/checkout/form-coupon.php:32
+msgid "All Coupons"
+msgstr ""
+
+#: includes/front-end/cart/wcap_change_frontend_coupon_form.php:31
+msgid "close"
+msgstr ""
+
+#: includes/front-end/cart/wcap_change_frontend_coupon_form.php:36
+msgid "Code"
+msgstr ""
+
+#: includes/front-end/cart/wcap_change_frontend_coupon_form.php:37
+msgid "Description"
+msgstr ""
+
+#: includes/front-end/cart/wcap_change_frontend_coupon_form.php:38
+msgid "Discount"
+msgstr ""
+
+#: includes/front-end/cart/wcap_change_frontend_coupon_form.php:58
+msgid "Expiry Date"
+msgstr ""
+
+#: includes/front-end/cart/wcap_change_frontend_coupon_form.php:59
+msgid "Free Shipping"
+msgstr ""
+
+#: includes/front-end/cart/wcap_change_frontend_coupon_form.php:60
+msgid "Minimum Spend Required"
+msgstr ""
+
+#: includes/front-end/cart/wcap_change_frontend_coupon_form.php:95
+msgid "Enter Coupon Code"
+msgstr ""
+
+#: includes/wcap_register_frontend_script_style.php:15
+msgid "loading..."
+msgstr ""
+
+#: includes/wcap_register_frontend_script_style.php:15
+msgid "No Coupon Selected"
+msgstr ""
+
+#: templates/checkout/form-coupon.php:18
+msgid "Have a coupon?"
+msgstr ""
+
+#: templates/checkout/form-coupon.php:19
+msgid "Click here to enter your code"
+msgstr ""
+
+#: templates/checkout/form-coupon.php:26
+msgid "Coupon code"
+msgstr ""
+
+#: templates/checkout/form-coupon.php:30
+msgid "Apply Coupon"
+msgstr ""
